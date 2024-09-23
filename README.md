@@ -17,9 +17,6 @@ This is a React-based application that allows users to input text, analyze it in
 - **Bonus Feature:**
   - The words that are replaced in the text are highlighted in yellow after the replacement.
 
-## Demo
-
-You can see a live demo of the app (if deployed) at [Demo Link].
 
 ## Installation
 
